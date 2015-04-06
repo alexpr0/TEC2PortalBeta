@@ -12,6 +12,6 @@ xmlhttp.setRequestHeader('ocp-apim-subscription-key','2e1a286035c0405183618a0191
 xmlhttp.send();
 
 function myFunction(arr) {
-    document.getElementById("id01").innerHTML = arr;
+
 }
 	
